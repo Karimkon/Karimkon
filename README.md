@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Karimkon
-- 👀 I’m interested in coding
-- 🌱 I am a python programmer.
+- 🌱 I am a python & php programmer.
 - I have a software company called hhegotech
 - 💞️ I’m looking to collaborate with big companies that need pograms / software
 - 📫 How to reach me call 0707208954 / 0761350571
